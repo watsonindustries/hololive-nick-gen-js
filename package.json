@@ -1,0 +1,28 @@
+{
+  "name": "hololive-nick-gen",
+  "version": "1.0.0",
+  "description": "Generate unique hololive themed fan nicknames.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "vitest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watsonindustries/hololive-nick-gen-js.git"
+  },
+  "keywords": [
+    "hololive"
+  ],
+  "author": "DaniruKun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watsonindustries/hololive-nick-gen-js/issues"
+  },
+  "homepage": "https://github.com/watsonindustries/hololive-nick-gen-js#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "vitest": "^0.33.0"
+  }
+}
